@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.44" height="53.21" viewBox="0 0 61.44 53.21">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: 0;
+        mix-blend-mode: multiply;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: #238dc1;
+      }
+
+      .cls-6 {
+        fill: #238dc1;
+      }
+    </style>
+  </defs>
+  <title>Ресурс 19</title>
+  <g class="cls-1">
+    <g id="Слой_2" data-name="Слой 2">
+      <g id="Слой_1-2" data-name="Слой 1">
+        <g>
+          <g>
+            <g class="cls-2">
+              <polygon points="45.8 0.5 15.65 0.5 0.58 26.61 15.65 52.71 45.8 52.71 60.87 26.61 45.8 0.5"/>
+              <polygon class="cls-3" points="45.8 0.5 15.65 0.5 0.58 26.61 15.65 52.71 45.8 52.71 60.87 26.61 45.8 0.5"/>
+            </g>
+            <g>
+              <polygon class="cls-4" points="45.8 0.5 15.65 0.5 0.58 26.61 15.65 52.71 45.8 52.71 60.87 26.61 45.8 0.5"/>
+              <polygon class="cls-5" points="45.8 0.5 15.65 0.5 0.58 26.61 15.65 52.71 45.8 52.71 60.87 26.61 45.8 0.5"/>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-6" x="13.19" y="23.79" width="36" height="8.98" rx="3" ry="3"/>
+            <rect class="cls-6" x="18.46" y="19.3" width="9.73" height="4.25" rx="1.88" ry="1.88"/>
+            <rect class="cls-6" x="19.4" y="32.08" width="3.45" height="4.84"/>
+            <rect class="cls-6" x="40.64" y="32.08" width="3.45" height="4.84"/>
+            <rect class="cls-6" x="13.19" y="16.89" width="4.5" height="11.05" rx="1.45" ry="1.45"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

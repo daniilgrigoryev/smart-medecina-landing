@@ -1,0 +1,162 @@
+.bg-bg_ico_right_white {
+    width: 18px; height: 15px;
+    background: url('../../images/css_sprites.png') -162px -323px;
+}
+.bg-certificate {
+    width: 89px; height: 118px;
+    background: url('../../images/css_sprites.png') -3px -235px;
+}
+.bg-devider {
+    width: 1px; height: 75px;
+    background: url('../../images/css_sprites.png') -499px -3px;
+}
+.bg-ico_k {
+    width: 58px; height: 60px;
+    background: url('../../images/css_sprites.png') -399px -290px;
+}
+.bg-ico_gold {
+    width: 60px; height: 63px;
+    background: url('../../images/css_sprites.png') -399px -91px;
+}
+.bg-ico_right_blue {
+    width: 18px; height: 15px;
+    background: url('../../images/css_sprites.png') -138px -323px;
+}
+.bg-ico_right_red {
+    width: 14px; height: 12px;
+    background: url('../../images/css_sprites.png') -186px -323px;
+}
+.bg-ico_rk {
+    width: 54px; height: 57px;
+    background: url('../../images/css_sprites.png') -67px -359px;
+}
+.bg-ico_server {
+    width: 50px; height: 50px;
+    background: url('../../images/css_sprites.png') -159px -423px;
+}
+.bg-icon_binoculars {
+    width: 126px; height: 110px;
+    background: url('../../images/css_sprites.png') -135px -119px;
+}
+.bg-icon_close_blue {
+    width: 13px; height: 13px;
+    background: url('../../images/css_sprites.png') -465px -271px;
+}
+.bg-icon_edit_document {
+    width: 126px; height: 110px;
+    background: url('../../images/css_sprites.png') -267px -119px;
+}
+.bg-icon_emal {
+    width: 59px; height: 43px;
+    background: url('../../images/css_sprites.png') -187px -359px;
+}
+.bg-icon_exchanging_arrows {
+    width: 54px; height: 38px;
+    background: url('../../images/css_sprites.png') -252px -359px;
+}
+.bg-icon_facebook {
+    width: 50px; height: 50px;
+    background: url('../../images/css_sprites.png') -215px -423px;
+}
+.bg-icon_hands_heart {
+    width: 126px; height: 110px;
+    background: url('../../images/css_sprites.png') -3px -119px;
+}
+.bg-icon_handshake {
+    width: 126px; height: 110px;
+    background: url('../../images/css_sprites.png') -135px -3px;
+}
+.bg-icon_home {
+    width: 64px; height: 58px;
+    background: url('../../images/css_sprites.png') -399px -160px;
+}
+.bg-icon_left_arr {
+    width: 25px; height: 41px;
+    background: url('../../images/css_sprites.png') -465px -224px;
+}
+.bg-icon_loup_doc {
+    width: 94px; height: 82px;
+    background: url('../../images/css_sprites.png') -98px -235px;
+}
+.bg-icon_loupe {
+    width: 94px; height: 82px;
+    background: url('../../images/css_sprites.png') -399px -3px;
+}
+.bg-icon_phone {
+    width: 58px; height: 58px;
+    background: url('../../images/css_sprites.png') -3px -359px;
+}
+.bg-icon_refresh_button {
+    width: 94px; height: 82px;
+    background: url('../../images/css_sprites.png') -298px -235px;
+}
+.bg-icon_right_arr {
+    width: 25px; height: 41px;
+    background: url('../../images/css_sprites.png') -465px -91px;
+}
+.bg-icon_search_engine {
+    width: 54px; height: 54px;
+    background: url('../../images/css_sprites.png') -127px -359px;
+}
+.bg-icon_small_phone {
+    width: 18px; height: 18px;
+    background: url('../../images/css_sprites.png') -469px -187px;
+}
+.bg-icon_space_shop {
+    width: 126px; height: 110px;
+    background: url('../../images/css_sprites.png') -3px -3px;
+}
+.bg-icon_tb_close {
+    width: 21px; height: 21px;
+    background: url('../../images/css_sprites.png') -469px -160px;
+}
+.bg-icon_server {
+    width: 94px; height: 82px;
+    background: url('../../images/css_sprites.png') -198px -235px;
+}
+.bg-icon_twitter {
+    width: 50px; height: 50px;
+    background: url('../../images/css_sprites.png') -103px -423px;
+}
+.bg-icon_telephone_operator {
+    width: 126px; height: 110px;
+    background: url('../../images/css_sprites.png') -267px -3px;
+}
+.bg-icon_white_ok {
+    width: 18px; height: 15px;
+    background: url('../../images/css_sprites.png') -465px -138px;
+}
+.bg-icon_vk {
+    width: 50px; height: 50px;
+    background: url('../../images/css_sprites.png') -47px -423px;
+}
+.bg-icon_white_phone {
+    width: 18px; height: 18px;
+    background: url('../../images/css_sprites.png') -463px -321px;
+}
+.bg-icon_zoom {
+    width: 60px; height: 60px;
+    background: url('../../images/css_sprites.png') -399px -224px;
+}
+.bg-rocket_ship_outline {
+    width: 38px; height: 70px;
+    background: url('../../images/css_sprites.png') -3px -423px;
+}
+.bg-tb_icon_ok {
+    width: 26px; height: 25px;
+    background: url('../../images/css_sprites.png') -463px -290px;
+}
+.bg-tb_icon_ok_and_plus {
+    width: 34px; height: 28px;
+    background: url('../../images/css_sprites.png') -98px -323px;
+}
+.bg-circle{
+    width: 196px;
+    height: 196px;
+    background-image: url('../../images/circle.png');
+}
+.bg-tape{
+    width: 618px;
+    height: 186px;
+    background-image: url('../../images/tape.png');
+}

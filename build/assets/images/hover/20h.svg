@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.29" height="52.21" viewBox="0 0 60.29 52.21">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: 0;
+        mix-blend-mode: multiply;
+      }
+
+      .cls-3 {
+        fill: #238dc1;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Ресурс 47</title>
+  <g class="cls-1">
+    <g id="Слой_2" data-name="Слой 2">
+      <g id="Слой_1-2" data-name="Слой 1">
+        <g>
+          <g>
+            <g class="cls-2">
+              <polygon points="45.22 0 15.07 0 0 26.11 15.07 52.21 45.22 52.21 60.29 26.11 45.22 0"/>
+            </g>
+            <polygon class="cls-3" points="45.22 0 15.07 0 0 26.11 15.07 52.21 45.22 52.21 60.29 26.11 45.22 0"/>
+          </g>
+          <g>
+            <rect class="cls-4" x="12.61" y="23.29" width="36" height="8.98" rx="3" ry="3"/>
+            <rect class="cls-4" x="17.88" y="18.8" width="9.73" height="4.25" rx="1.88" ry="1.88"/>
+            <rect class="cls-4" x="18.83" y="31.58" width="3.45" height="4.84"/>
+            <rect class="cls-4" x="40.06" y="31.58" width="3.45" height="4.84"/>
+            <rect class="cls-4" x="12.61" y="16.39" width="4.5" height="11.05" rx="1.45" ry="1.45"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

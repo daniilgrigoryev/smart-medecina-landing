@@ -1,0 +1,15 @@
+@import './includes/normalize.min.css';
+@import './includes/slick.min.css';
+@import './includes/selectric.min.css';
+@import './includes/lightbox.min.css';
+
+@import './includes/common.css';
+@import './includes/fonts.css';
+@import './includes/typography.css';
+@import './includes/icons.css';
+
+
+
+
+@import './includes/index.css';
+@import './includes/media.css';

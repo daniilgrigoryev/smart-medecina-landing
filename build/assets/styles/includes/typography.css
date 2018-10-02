@@ -1,0 +1,113 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.yellow{
+  color: #ffde00;
+}
+
+h2{
+  font-size: 40px;
+  font-family: 'Lato-Black';
+  color: #005370;
+  line-height: 1.1;
+  text-align: center;
+  position: relative;
+}
+h2.has_line:after{
+    content: "";
+    display: block;
+    width: 640px;
+    height: 1px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: #008ec4;
+    position: absolute;
+
+    bottom: -20px;
+    /*bottom: -50%;*/
+}
+h2.has_line:before{
+    content: "•";
+    display: block;
+    left: 50%;
+
+    transform: translate(-50%, 0);
+    color: #008ec4;
+    position: absolute;
+    font-size: 12px;
+
+    bottom: -25px;
+    /*bottom: calc(-50% - 5px);*/
+}
+span.described{
+  font-size: 20px;
+  font-family: 'Lato';
+  color: #085377;
+  line-height: 1.2;
+}
+
+
+
+h5{
+  font-size: 22px;
+  font-family: "Lato";
+  color: #008ec4;
+  line-height: 100%;
+  margin: 0;
+}
+
+
+
+h4{
+  font-size: 30px;
+  font-family: "Lato-Black";
+  color: #fff;
+  line-height: 1.667;
+  margin: 22px 0px;
+}
+p.described-sm{
+  font-size: 19px;
+  font-family: "Lato";
+  color: #fff;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+
+
+
+ul.list{}
+ul.list li{
+  font-size: 16px;
+  font-family: "Lato";
+  color: #005370;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  padding-left: 35px;
+  margin: 13px 0;
+}
+ul.list li b{
+    font-family: "Lato-Bold";
+}
+ul.list li:before{
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    background: url('../../images/css_sprites.png') -138px -323px;
+    margin-left: -35px;
+}
+
+
+
+
+
+
+

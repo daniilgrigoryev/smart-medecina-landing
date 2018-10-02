@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="72" viewBox="0 0 80 72">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: 0;
+        mix-blend-mode: multiply;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #238dc1;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #238dc1;
+      }
+    </style>
+  </defs>
+  <title>Ресурс 28</title>
+  <g class="cls-1">
+    <g id="Слой_2" data-name="Слой 2">
+      <g id="Слой_1-2" data-name="Слой 1">
+        <g>
+          <g>
+            <image class="cls-2" width="80" height="72" xlink:href="data:image/png;base64,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"/>
+            <g>
+              <polygon class="cls-3" points="55.01 9.56 24.87 9.56 9.79 35.67 24.87 61.77 55.01 61.77 70.08 35.67 55.01 9.56"/>
+              <polygon class="cls-4" points="55.01 9.56 24.87 9.56 9.79 35.67 24.87 61.77 55.01 61.77 70.08 35.67 55.01 9.56"/>
+            </g>
+          </g>
+          <g>
+            <path class="cls-5" d="M50.14,21.37h-3v.83l0,.6h1.45a2.12,2.12,0,0,1,2.12,2.12V45.44a2.12,2.12,0,0,1-2.12,2.12H39a2.18,2.18,0,0,1-2.16-2.1l-.1-3.72a1.15,1.15,0,0,0-1.15-1.12l-3.45,0A2.1,2.1,0,0,1,30,38.58V24.92a2.12,2.12,0,0,1,2.12-2.12h1V21.37H30.66a2.81,2.81,0,0,0-2.84,2.77V47.46a2.82,2.82,0,0,0,2.84,2.77H50.14A2.82,2.82,0,0,0,53,47.46V24.14A2.81,2.81,0,0,0,50.14,21.37Z"/>
+            <path class="cls-5" d="M44.93,19.89H42.61c-.1-.93-1.49-1.65-2.44-1.65s-2.33.72-2.44,1.65H35.41a1.35,1.35,0,0,0-1.35,1.35v2.82H46.28V21.24A1.35,1.35,0,0,0,44.93,19.89Zm-4.8,1.26a1,1,0,1,1,1-1A1,1,0,0,1,40.13,21.14Z"/>
+            <path class="cls-5" d="M48.62,23.79H47.17v1.13h-14V23.79h-1A1.13,1.13,0,0,0,31,24.92V38.58a1.11,1.11,0,0,0,1.1,1.1l3.45,0h0a2.16,2.16,0,0,1,2.17,2.08l.1,3.71A1.18,1.18,0,0,0,39,46.57h9.63a1.13,1.13,0,0,0,1.13-1.13V24.92A1.12,1.12,0,0,0,48.62,23.79ZM45.38,35.21H41.92v3.46h-3V35.21H35.45v-3h3.46V28.74h3V32.2h3.46Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
